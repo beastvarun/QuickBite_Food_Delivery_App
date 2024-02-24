@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VegFeul" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#ff5e00</item>
+        <item name="colorOnPrimary">#ff5e00</item>
+    </style>
+
+    <style name="Theme.VegFeul" parent="Base.Theme.VegFeul" />
+</resources>
